@@ -23,12 +23,9 @@ Utilizo los siguientes comandos:
 
 | Servicio | Activo | IP | Puerto | Base | Usuario |
 | -------- | ------ | -- | ------ | ---- | ------- |
-| Oracle | | | | | |
-| | X | `127.0.0.1` | `1521` | `FREEPDB1` | `orauser` |
-| MariaDB | | | | | |
-| | X | `127.0.0.1` | `3306` | `dbm` | `muser` |
-| PostgreSQL | | | | | |
-| | X | `127.0.0.1` | `5432` | `dbpg` | `pguser` |
+| Oracle | X | `127.0.0.1` | `1521` | `FREEPDB1` | `orauser` |
+| MariaDB | X | `127.0.0.1` | `3306` | `dbm` | `muser` |
+| PostgreSQL | X | `127.0.0.1` | `5432` | `dbpg` | `pguser` |
 
 ## 1. Clientes para Oracle Database (en Mint/Debian)
 
