@@ -2,7 +2,7 @@
 # PRÁCTICA 2.3: Instalar clientes para tres SGBD
 
 **Asignatura:** ASIR 2 - SGBD  
-**Autora:** Carla González Da Costa  
+** Carla González Da Costa  
 **Fecha:** 17/10/2026
 
 ## Instrucción y objetivo de esta práctica
