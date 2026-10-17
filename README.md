@@ -24,11 +24,11 @@ Utilizo los siguientes comandos:
 | Servicio | Activo | IP | Puerto | Base | Usuario |
 | -------- | ------ | -- | ------ | ---- | ------- |
 | Oracle | | | | | |
-| | marcada | `127.0.0.1` | `1521` | `FREEPDB1` | `orauser` |
+| | X | `127.0.0.1` | `1521` | `FREEPDB1` | `orauser` |
 | MariaDB | | | | | |
-| | marcada | `127.0.0.1` | `3306` | `dbm` | `muser` |
+| | X | `127.0.0.1` | `3306` | `dbm` | `muser` |
 | PostgreSQL | | | | | |
-| | marcada | `127.0.0.1` | `5432` | `dbpg` | `pguser` |
+| | X | `127.0.0.1` | `5432` | `dbpg` | `pguser` |
 
 ## 1. Clientes para Oracle Database (en Mint/Debian)
 
